@@ -51,7 +51,7 @@ I'm a programmer, specialized in **Frontend** but I also work with **Python, C++
 
 ---
 
-<a id="português"></a>
+<div id="português"></div>
 
 ## 🇧🇷 Versão Português
 
@@ -93,6 +93,7 @@ Sou programador, mais especializado em **Frontend** mas faço trabalho em **Pyth
 
 
 ---
+
 
 
 

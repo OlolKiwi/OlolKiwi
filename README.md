@@ -11,7 +11,7 @@
 
 <a name="english"></a>
 
-# 🇺🇸 English Version
+# English Version
 
 <div align="center">
     <h1>Hey, I'm Kiwi</h1>
@@ -52,7 +52,7 @@ I'm a programmer, specialized in **Frontend** but I also work with **Python, C++
 
 <a name="português"></a>
 
-# 🇧🇷 Versão em Português
+# Versão em Português
 
 <div align="center">
     <h1>Opa, eu sou o Kiwi</h1>
@@ -90,4 +90,5 @@ Sou programador, mais especializado em **Frontend** mas faço trabalho em **Pyth
 </div>
 
 ---
+
 

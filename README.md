@@ -15,7 +15,6 @@
 
 <div align="center">
     <h1>Hey, I'm Kiwi</h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5CE65C&center=true&vCenter=true&width=435&lines=Learning+and+improving;Python+%2B+HTML+%2B+CSS+%2B+JavaScript+%2B+Rust;Always+evolving+and+adapting" alt="Typing SVG" />
 </div>
 
 ### About Me
@@ -57,7 +56,6 @@ I'm a programmer, specialized in **Frontend** but I also work with **Python, C++
 
 <div align="center">
     <h1>Opa, eu sou o Kiwi</h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=5CE65C&center=true&vCenter=true&width=435&lines=Aprendendo+e+aperfeiçoando;Python+%2B+HTML+%2B+CSS+%2B+JavaScript+%2B+Rust;Sempre+melhorando+e+adaptando" alt="Typing SVG" />
 </div>
 
 ### Sobre Mim
@@ -92,3 +90,4 @@ Sou programador, mais especializado em **Frontend** mas faço trabalho em **Pyth
 </div>
 
 ---
+
